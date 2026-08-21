@@ -9,7 +9,7 @@ include_in_footer: true
 
 ## Contact
 
-For app support, questions or inquiries, kindly write to [returndate@alimoussa.com](mailto:returndate@alimoussa.com).
+For app support, questions or inquiries, kindly write to [returnnotice@alimoussa.com](mailto:returnnotice@alimoussa.com).
 
 ## Compatibility
 

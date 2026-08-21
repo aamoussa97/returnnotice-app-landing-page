@@ -74,5 +74,5 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 If you have questions about this Privacy Policy or about your data, contact us at:
 
-- **Email:** [returndate@alimoussa.com](mailto:returndate@alimoussa.com)
+- **Email:** [returnnotice@alimoussa.com](mailto:returnnotice@alimoussa.com)
 - **Website:** https://alimoussa.com

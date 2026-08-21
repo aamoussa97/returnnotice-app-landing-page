@@ -74,5 +74,5 @@ Vi kan opdatere denne privatlivspolitik fra tid til anden. Ved væsentlige ændr
 
 Har du spørgsmål til denne privatlivspolitik eller dine data, kan du kontakte os på:
 
-- **E-mail:** [returndate@alimoussa.com](mailto:returndate@alimoussa.com)
+- **E-mail:** [returnnotice@alimoussa.com](mailto:returnnotice@alimoussa.com)
 - **Hjemmeside:** https://alimoussa.com
