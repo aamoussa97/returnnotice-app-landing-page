@@ -1,26 +1,26 @@
 #page title
-page_title: # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title: ReturnNotice
 
 # App Info
-ios_app_id: 1524069344 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id: # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190). TODO: Set once the app is live on the App Store.
 
-appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually. TODO: Set once the app is live on the App Store.
 playstore_link: # Enter Google Play Store URL.
 presskit_download_link: # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
   # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon: # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Saving reimagined.
+app_icon: assets/appicon.png # Path to app icon file.
+app_name: ReturnNotice
+app_price: Free
+app_description: Never miss a return window.
 
-enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
+enable_smart_app_banner: false # Set to true to show a smart app banner at top of page on mobile devices (requires ios_app_id).
 
 # Information About Yourself
 your_name: Ali Moussa
 your_link: https://alimoussa.com
 your_city: Copenhagen
-email_address: ali@alimoussa.com
+email_address: returndate@alimoussa.com
 facebook_username:
 instagram_username:
 twitter_username:
@@ -29,37 +29,37 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: At a glance
-    description: Overview of all savings goals
+  - title: Automatic return-by dates
+    description: Deadlines based on each store's real policy, your region and your memberships.
+    fontawesome_icon_name: calendar-check
+
+  - title: Reminders that work
+    description: Get notified before the window closes — or set your own custom reminders.
+    fontawesome_icon_name: bell
+
+  - title: AI Scan
+    description: Snap a receipt photo or paste a product link and let the app fill in the details. Entirely on device.
     fontawesome_icon_name: magic
 
-  - title: Detailed when needed
-    description: Images and links even!
-    fontawesome_icon_name: file-invoice
+  - title: Widgets & Live Activities
+    description: Keep the next deadline in view with home-screen widgets and a live countdown.
+    fontawesome_icon_name: mobile
 
-  - title: Filter to your heart's conent
-    description: Sort/filter by amount, date, title and status.
-    fontawesome_icon_name: filter
+  - title: Apple Watch & Mac
+    description: Track your returns from your wrist and your desktop.
+    fontawesome_icon_name: laptop
 
-  - title: Notifies you when due*
-    description: Never miss a contribution
-    fontawesome_icon_name: dot-circle
+  - title: Calendar integration
+    description: Add return-by dates as events so deadlines live where you already look.
+    fontawesome_icon_name: calendar-alt
 
-  - title: Takes care of your eyes
-    description: Sypports dark mode
-    fontawesome_icon_name: adjust
+  - title: Insights
+    description: See spend at risk by store and category, plus refund status at a glance.
+    fontawesome_icon_name: chart-pie
 
-  - title: Adapts to your personality
-    description: App icons and accent colors
-    fontawesome_icon_name: paint-roller
-
-  - title: Biometrics
-    description: Secure app with Face ID/Touch ID
-    fontawesome_icon_name: fingerprint
-
-  - title: Synchronize goals across devices
-    description: Synchronize goals with devices connected to the same Apple ID
-    fontawesome_icon_name: sync
+  - title: Private by design
+    description: Local-first with no account required. Optional iCloud sync via your own Apple ID.
+    fontawesome_icon_name: lock
 
 # Theme Settings
 topbar_color: '#000000'
